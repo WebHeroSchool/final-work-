@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('fonts/MontserratSubrayada-Bold-Webfont.woff2') format('woff2'),
+        url('fonts/MontserratSubrayada-Bold-Webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('fonts/MontserratSubrayada-Regular-Webfont.woff2') format('woff2'),
+        url('fonts/MontserratSubrayada-Regular-Webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: regular;
+    font-display: swap;
+}
